@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1094839347465",
+    "firebase_url": "https://the-chat-4da6c.firebaseio.com",
+    "project_id": "the-chat-4da6c",
+    "storage_bucket": "the-chat-4da6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094839347465:android:d73a76b293c36a70",
+        "android_client_info": {
+          "package_name": "com.example.thechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094839347465-c5466urfkob3scn3k79gnmf7a7hg0ggs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.thechat",
+            "certificate_hash": "34a319ca39996e7f3b97e8f79b7fca8d166dab15"
+          }
+        },
+        {
+          "client_id": "1094839347465-8ipg0ljevv350orbfe0j69c1r930ugs1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuu8Ufsga7R5ygHPC4Yg_m5Zfyg5viL38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094839347465-8ipg0ljevv350orbfe0j69c1r930ugs1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
